@@ -1,6 +1,5 @@
 const express = require('express');
 const fs = require('fs');
-const path = require('path');
 const PATH =  __dirname + '/' + '../data/database.json';
 
 const operations = express.Router();
