@@ -23,10 +23,5 @@
         "name": "User5",
         "password": "password5",
         "id": 5
-    },
-    "user9": {
-        "name": "kakka",
-        "password": "llal",
-        "id": 6
     }
 }
