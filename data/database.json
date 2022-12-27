@@ -1,1 +1,27 @@
-{"user1":{"name":"User1","password":"password1","id":1},"user2":{"name":"User2","password":"password2","id":2},"user3":{"name":"User3","password":"password3","id":3},"user4":{"name":"User4","password":"password4","id":4},"user5":{"name":"User5","password":"password5","id":5},"user6":{"name":"User6","password":"password6","id":6}}
+{
+    "user1" : {
+        "name" : "User1",
+        "password" : "password1",
+        "id": 1
+    },
+    "user2" : {
+        "name" : "User2",
+        "password" : "password2",
+        "id": 2
+    },
+    "user3" : {
+        "name" : "User3",
+        "password" : "password3",
+        "id": 3
+    },
+    "user4" : {
+        "name" : "User4",
+        "password" : "password4",
+        "id": 4
+    },
+    "user5" : {
+        "name" : "User5",
+        "password" : "password5",
+        "id": 5
+    }
+}
