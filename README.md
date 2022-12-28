@@ -2,11 +2,15 @@
 A simple API using node and express.
 Make changes to a JSON file using the following endpoints:
 
-GET: '.../api/users' - Returns all users
+Hosted on deta.sh:
 
-GET: '.../api/user/:id' - Return a specific user with id
+``` https://hbnqwi.deta.dev ```
 
-POST: '.../api/addUser' - Adds users to the JSON database, example: 
+GET: 'https://hbnqwi.deta.dev/api/users' - Returns all users
+
+GET: 'https://hbnqwi.deta.dev/api/user/:id' - Return a specific user with id
+
+POST: 'https://hbnqwi.deta.dev/api/addUser' - Adds users to the JSON database, example: 
 ```
 {
     "user#id" : {
@@ -16,4 +20,4 @@ POST: '.../api/addUser' - Adds users to the JSON database, example:
     }
 }
 ```
-DELETE: '.../api/delete/:id' - Delete a specific user with id
+DELETE: 'https://hbnqwi.deta.dev/api/delete/:id' - Delete a specific user with id
